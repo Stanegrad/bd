@@ -106,4 +106,9 @@ h1 {
     .three span{
         font-size: 10rem;
     }
+
+    .video-prop {
+        height: 240px;
+        width: 320px;
+    }
 }  
