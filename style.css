@@ -85,7 +85,10 @@ h1 {
     width: 300px;
 }
 
-
+.video-prop {
+    height: 720px;
+    width: 1080px;
+}
 
 .seven {
     top: 0;
