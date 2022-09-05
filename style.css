@@ -85,16 +85,22 @@ h1 {
     width: 300px;
 }
 
-.six-random-b {
-    right: 200px;
-}
 
-.six-random-c {
-    top: 200px;
-    height: 250px;
-    width: 300px;
-}
 
 .seven {
     top: 0;
 }
+
+@media screen and (max-width: 500px) {
+    .container {
+      width: 90%;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    .three span{
+        font-size: 10rem;
+    }
+}  
