@@ -1,0 +1,100 @@
+html {
+    box-sizing: border-box;
+}
+  
+body {
+    margin: 0;
+    font-family: "Work Sans", sans-serif;
+    
+}
+  
+.container {
+    height: 100vh;
+    width: 100vh;
+    margin: 0 auto;
+    text-align: center;
+    visibility: hidden;
+    position: relative;
+    overflow: hidden;
+    
+}
+
+.container > div {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 20vh;
+  }
+
+h1 {
+    font-size: 5rem;
+    font-weight: 400;
+}
+
+
+.three p {
+    font-size: 2rem;
+    position: absolute;
+    left: 0;
+    right: 0;
+  }
+
+.three span {
+    font-size: 25rem;
+    display: inline;
+  }
+
+  .baloons img {
+    display: inline-block;
+    position: absolute;
+  }
+  
+  .baloons img:nth-child(even) {
+    left: -10%;
+  }
+  
+  .baloons img:nth-child(odd) {
+    right: -10%;
+  }
+  
+  .baloons img:nth-child(3n + 0) {
+    left: 30%;
+  }
+
+  .container div.five
+{
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+}
+
+.six {
+    position: relative;
+  }
+  
+  .six img {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+  }
+
+.six-random-a {
+    left: 500px;
+    height: 250px;
+    width: 300px;
+}
+
+.six-random-b {
+    right: 200px;
+}
+
+.six-random-c {
+    top: 200px;
+    height: 250px;
+    width: 300px;
+}
+
+.seven {
+    top: 0;
+}
