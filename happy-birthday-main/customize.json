@@ -1,0 +1,23 @@
+{
+  "greeting": "hey",
+  "name": "abc!!",
+  "greetingText": "",
+  "wishText": "",
+  "imagePath": "img/babo_photo.jpg",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "sendButtonLabel": "전송",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "난 깨달았어, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "생일축하한다!",
+  "outroText": "Okay, tell me if you liked it.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}

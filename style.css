@@ -85,13 +85,24 @@ h1 {
     width: 300px;
 }
 
-.video-prop {
-    height: 720px;
-    width: 1080px;
+.seven {
+    top: 10px;
 }
 
-.seven {
-    top: 0;
+.seven-msgs {
+  height: 450px;
+  background-color: #d3d3d3;
+  border-radius: 50px;
+}
+
+.seven-img img {
+    height: 250px;
+    border-radius: 50%;
+}
+
+.video-prop {
+  height: 480px;
+  width: 720px;
 }
 
 @media screen and (max-width: 500px) {
@@ -109,6 +120,6 @@ h1 {
 
     .video-prop {
         height: 240px;
-        width: 320px;
+        width: 320pxgit;
     }
 }  
